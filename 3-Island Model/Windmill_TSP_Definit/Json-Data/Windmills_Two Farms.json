@@ -1,0 +1,138 @@
+{"Windmill_dataset": [
+    {
+        "name" : "DOCK",
+        "x-cord" : 51.330278,
+        "y-cord" : 3.206389
+    },    
+    {
+        "name" : "WT V03",
+        "x-cord" : 51.659,
+        "y-cord" : 2.8239
+    },
+    {
+        "name" : "WT V04",
+        "x-cord" : 51.6539,
+        "y-cord" : 2.817
+    },
+    {
+        "name" : "WT V05",
+        "x-cord" : 51.64843,
+        "y-cord" : 2.81384
+    },
+    {
+        "name" : "WT V06",
+        "x-cord" : 51.64278,
+        "y-cord" : 2.81062
+    },
+    {
+        "name" : "WT V07",
+        "x-cord" : 51.63748,
+        "y-cord" : 2.80555
+    },
+    {
+        "name" : "WT V08",
+        "x-cord" : 51.63002,
+        "y-cord" : 2.79656
+    },
+    {
+        "name" : "WT V09",
+        "x-cord" : 51.62509,
+        "y-cord" : 2.79945
+    },
+    {
+        "name" : "WT V10",
+        "x-cord" : 51.62131,
+        "y-cord" : 2.80156
+    },
+    {
+        "name" : "WT W01",
+        "x-cord" : 51.67664,
+        "y-cord" : 2.83062
+    },
+    {
+        "name" : "WT W02",
+        "x-cord" : 51.66732,
+        "y-cord" : 2.83209
+    },
+    {
+        "name" : "WT W03",
+        "x-cord" : 51.65939,
+        "y-cord" : 2.83402
+    },
+    {
+        "name" : "WT W04",
+        "x-cord" : 51.65451,
+        "y-cord" : 2.82988
+    },
+    {
+        "name" : "WT W05",
+        "x-cord" : 51.6496,
+        "y-cord" : 2.82583
+    },
+    {
+        "name" : "POWA1",
+        "x-cord" : 53.27261,
+        "y-cord" : 4.07229
+    },
+    {
+        "name" : "POWA2",
+        "x-cord" : 53.27466,
+        "y-cord" : 4.03762
+    },
+    {
+        "name" : "POWA3",
+        "x-cord" : 53.27302,
+        "y-cord" : 4.00878
+    },
+    {
+        "name" : "POWA4",
+        "x-cord" : 53.28718,
+        "y-cord" : 4.01152
+    },
+    {
+        "name" : "POWA5",
+        "x-cord" : 53.29826,
+        "y-cord" : 4.01324
+    },
+    {
+        "name" : "POWA6",
+        "x-cord" : 53.31304,
+        "y-cord" : 4.01461
+    },
+    {
+        "name" : "POWA7",
+        "x-cord" : 53.32842,
+        "y-cord" : 4.01255
+    },
+    {
+        "name" : "POWB1",
+        "x-cord" : 53.27918,
+        "y-cord" : 4.10456
+    },
+    {
+        "name" : "POWB2",
+        "x-cord" : 53.28924,
+        "y-cord" : 4.05032
+    },
+    {
+        "name" : "POWB3",
+        "x-cord" : 53.30216,
+        "y-cord" : 4.04792
+    },
+    {
+        "name" : "POWB4",
+        "x-cord" : 53.31529,
+        "y-cord" : 4.05684
+    },
+    {
+        "name" : "POWB5",
+        "x-cord" : 53.33170,
+        "y-cord" : 4.05032
+    },
+    {
+        "name" : "POWB6",
+        "x-cord" : 53.34154,
+        "y-cord" : 4.01187
+    }
+]
+}
