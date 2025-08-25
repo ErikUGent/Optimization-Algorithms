@@ -1,6 +1,5 @@
 import sys
 import pandas as pd
-#import matplotlib.pyplot as plt
 import numpy as np
 from math import sin, cos, sqrt, atan2, radians
 import googlemaps
@@ -35,14 +34,6 @@ for x in data_d:
     lat_long.loc[y].LONGITUDE = location.longitude
     #print (lat_long)
 
-'''
-#Qurtinz
-lat_long = pd.DataFrame({'LATITUDE':[51.13308, 50.91840, 51.20496, 50.92058, 50.89327, 51.07950, 51.11038, 50.78700, 51.30778, 50.97909, 51.13308, 50.97010, 51.05852, 51.04502, 51.09441, 50.89942, 51.03099, 51.30226, 50.99678, 50.98198, 51.13308, 50.96432, 50.92210, 51.21664, 50.93520, 50.87334, 51.26352, 51.02721, 50.97337, 50.92743, 51.13308, 51.20292, 51.32481, 51.07679, 50.91886, 51.22223, 50.95421, 51.07333, 50.82915, 50.89358, 51.13308], 'LONGITUDE': [3.74511, 2.63064, 4.40352, 5.25137, 5.64441, 3.76623, 3.70918, 3.50654, 4.46086, 3.00883, 3.74511, 4.63070, 4.81290, 3.73360, 3.71467, 3.19107, 3.77983, 4.43313, 4.98743, 3.57350, 3.74511, 4.51168, 2.96181, 4.23826, 4.46529, 3.63436, 3.55449, 4.05721, 4.58802, 4.52145, 3.74511, 4.41781, 4.52884, 3.68330, 4.98244, 3.74942, 4.53728, 3.74684, 4.25162, 4.11861, 3.74511]})
-
-#lat_long
-
-#test = lat_long.iloc[2:,:]
-'''
 def distance(city1, city2):
     
     api_key = 'AIzaSyDhyx2JqH_Il1kLh4AH7_2cKAkul7yYpsM'#enter Google Maps API key
@@ -72,9 +63,4 @@ def dist_matrix():
         for i2, city2 in lat_long.iloc[i1+1:,:].iterrows():
             dist_matrix [i1][i2] = distance(city1, city2)
             dist_matrix [i2][i1] = distance(city2, city1)
-   
-    
-#    with open('Dist.txt', mode='w') as file_object:
-#        print(dist_matrix, file=file_object)
-
     return (dist_matrix)
