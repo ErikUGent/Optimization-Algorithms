@@ -1,0 +1,324 @@
+{
+	"Qurtinz_dataset":	[
+		{
+			"Name":	"Depot_Evergem",
+			"Address":	"Doornzeelsestraat 72, 9940 Evergem",
+			"Workers":	0,
+			"Service":	0,
+			"Start": 	0,
+			"End":		510
+		}, 
+		{
+			"Name":	"12279",
+			"Address":	"Trezeke Meyershof 2, 9850 Landegem, Belgie",
+			"Workers":	1,
+			"Service":	120,
+			"Start": 	0,
+			"End":		510
+		}, 
+		{
+			"Name":	"12345",
+			"Address":	"Tempel 125 A, 9572 Sint-Martens-Lierde, Belgie",
+			"Workers":	1,
+			"Service":	45,
+			"Start": 	0,
+			"End":		510
+		}, 
+		{
+			"Name":	"12179",
+			"Address":	"Meerledorp 11, 2328 Meerle, Belgie",
+			"Workers":	1,
+			"Service":	120,
+			"Start": 	0,
+			"End":		510
+		}, 
+		{
+			"Name":	"11851",
+			"Address":	"Sint-Hubertstraat 224, 9800 Deinze, Belgie",
+			"Workers":	1,
+			"Service":	115,
+			"Start": 	460,
+			"End":		510
+		}, 
+		{
+			"Name":	"11873",
+			"Address":	"Merelput 19, 9080 Lochristi, Belgie",
+			"Workers":	1,
+			"Service":	80,
+			"Start": 	0,
+			"End":		510
+		}, 
+		{
+			"Name":	"12004",
+			"Address":	"Opwijksestraat 171, 9280 Lebbeke, Belgie",
+			"Workers":	1,
+			"Service":	130,
+			"Start": 	0,
+			"End":		510
+		}, 
+		{
+			"Name":	"12381",
+			"Address":	"Brugse Steenweg 6, 9900 Eeklo, Belgie",
+			"Workers":	1,
+			"Service":	45,
+			"Start": 	0,
+			"End":		510
+		}, 
+		{
+			"Name":	"10581",
+			"Address":	"Goorboslei 51, 2860 Sint-Katelijne Waver, Belgie",
+			"Workers":	1,
+			"Service":	120,
+			"Start": 	0,
+			"End":		510
+		}, 
+		{
+			"Name":	"12188",
+			"Address":	"Palepelstraat 8, 9830 Sint-Martens-Latem, Belgie",
+			"Workers":	1,
+			"Service":	90,
+			"Start": 	0,
+			"End":		120
+		}, 
+		{
+			"Name":	"12192",
+			"Address":	"Ottogracht 40, 9000 Gent, Belgie",
+			"Workers":	1,
+			"Service":	40,
+			"Start": 	120,
+			"End":		150
+		}, 
+		{
+			"Name":	"12198",
+			"Address":	"Kleine Hoezekouter 11, 9300 Aalst, Belgie",
+			"Workers":	1,
+			"Service":	130,
+			"Start": 	0,
+			"End":		510
+		}, 
+		{
+			"Name":	"12092",
+			"Address":	"Frankrijklei 28, 2000 Antwerpen, Belgie",
+			"Workers":	1,
+			"Service":	90,
+			"Start": 	0,
+			"End":		510
+		}, 
+		{
+			"Name":	"12214",
+			"Address":	"Molendijk 27, 4542 BK Hoek, Nederland",
+			"Workers":	1,
+			"Service":	60,
+			"Start": 	0,
+			"End":		510
+		}, 
+		{
+			"Name":	"12317",
+			"Address":	"Lode Vissenaekenstraat 46, 2600 Berchem, Belgie",
+			"Workers":	1,
+			"Service":	30,
+			"Start": 	0,
+			"End":		510
+		}, 
+		{
+			"Name":	"12066",
+			"Address":	"Albert I laan 119, 8620 Nieuwpoort, Belgie",
+			"Workers":	1,
+			"Service":	35,
+			"Start": 	0,
+			"End":		510
+		}, 
+		{
+			"Name":	"12219",
+			"Address":	"Hondschootebaan 16, 8630 Houtem, Belgie",
+			"Workers":	1,
+			"Service":	60,
+			"Start": 	0,
+			"End":		510
+		}, 
+		{
+			"Name":	"12216",
+			"Address":	"Tildonksesteenweg 178, 3020 Herent, Belgie",
+			"Workers":	1,
+			"Service":	155,
+			"Start": 	0,
+			"End":		510
+		}, 
+		{
+			"Name":	"11822",
+			"Address":	"Brakumpad 1, 3210 Lubbeek, Belgie",
+			"Workers":	2,
+			"Service":	225,
+			"Start": 	0,
+			"End":		510
+		}, 
+		{
+			"Name":	"11945",
+			"Address":	"Stegelstraat 22 E, 8810 Lichtervelde, Belgie",
+			"Workers":	1,
+			"Service":	120,
+			"Start": 	0,
+			"End":		510
+		}, 
+		{
+			"Name":	"11967",
+			"Address":	"Kauwlei 1, 2550 Kontich, Belgie",
+			"Workers":	1,
+			"Service":	180,
+			"Start": 	0,
+			"End":		510
+		}, 
+		{
+			"Name":	"12267",
+			"Address":	"Moerlandstraat 90, 9100 Sint-Niklaas, Belgie",
+			"Workers":	1,
+			"Service":	45,
+			"Start": 	0,
+			"End":		510
+		}, 
+		{
+			"Name":	"12202",
+			"Address":	"Hoge-Aardstraat 119, 2610 Wilrijk, Belgie",
+			"Workers":	2,
+			"Service":	50,
+			"Start": 	0,
+			"End":		510
+		}, 
+		{
+			"Name":	"12099",
+			"Address":	"Belgielei 75A, 2018 Antwerpen, Belgie",
+			"Workers":	2,
+			"Service":	115,
+			"Start": 	0,
+			"End":		510
+		}, 
+		{
+			"Name":	"12206",
+			"Address":	"Kastanjedreef 29, 2950 Kapellen, Belgie",
+			"Workers":	2,
+			"Service":	75,
+			"Start": 	0,
+			"End":		510
+		}, 
+		{
+			"Name":	"12157",
+			"Address":	"Onze-Lieve-Vrouwlaan 4, 3300 Tienen Bost, Belgie",
+			"Workers":	1,
+			"Service":	120,
+			"Start": 	0,
+			"End":		510
+		}, 
+		{
+			"Name":	"12229",
+			"Address":	"Handelsstraat 42, 8800 Roeselare, Belgie",
+			"Workers":	1,
+			"Service":	45,
+			"Start": 	0,
+			"End":		510
+		}, 
+		{
+			"Name":	"12239",
+			"Address":	"Wijmeriestraat 15, 8790 Waregem, Belgie",
+			"Workers":	1,
+			"Service":	140,
+			"Start": 	0,
+			"End":		510
+		}, 
+		{
+			"Name":	"12194",
+			"Address":	"Kempische Steenweg 565, 3500 Hasselt, Belgie",
+			"Workers":	1,
+			"Service":	150,
+			"Start": 	0,
+			"End":		510
+		}, 
+		{
+			"Name":	"12249",
+			"Address":	"Isabellalei 79, 2180 Ekeren, Belgie",
+			"Workers":	2,
+			"Service":	150,
+			"Start": 	0,
+			"End":		510
+		}, 
+		{
+			"Name":	"12379",
+			"Address":	"Zeedijk 120, 8660 De Panne, Belgie",
+			"Workers":	1,
+			"Service":	45,
+			"Start": 	0,
+			"End":		510
+		}, 
+		{
+			"Name":	"12221",
+			"Address":	"Berkenlaan 1D, 9840 De Pinte, Belgie",
+			"Workers":	1,
+			"Service":	70,
+			"Start": 	0,
+			"End":		510
+		}, 
+		{
+			"Name":	"12136",
+			"Address":	"Platanenlaan 31, 1850 Grimbergen, Belgie",
+			"Workers":	2,
+			"Service":	225,
+			"Start": 	0,
+			"End":		510
+		}, 
+		{
+			"Name":	"12036",
+			"Address":	"Jean Laroystraat 100, 1500 Halle, Belgie",
+			"Workers":	2,
+			"Service":	120,
+			"Start": 	0,
+			"End":		510
+		}, 
+		{
+			"Name":	"12316",
+			"Address":	"Freddy Damsstraat 6, 2100 Deurne, Belgie",
+			"Workers":	1,
+			"Service":	160,
+			"Start": 	0,
+			"End":		510
+		}, 
+		{
+			"Name":	"12231",
+			"Address":	"Rogierlaan 47, 8400 Oostende, Belgie",
+			"Workers":	1,
+			"Service":	60,
+			"Start": 	0,
+			"End":		510
+		}, 
+		{
+			"Name":	"12215",
+			"Address":	"Boesbeeklaan 30, 9051 Sint Denijs Westrem, Belgie",
+			"Workers":	1,
+			"Service":	180,
+			"Start": 	0,
+			"End":		510
+		}, 
+		{
+			"Name":	"12028",
+			"Address":	"Kempenstraat 90, 2030 Antwerpen, Belgie",
+			"Workers":	2,
+			"Service":	90,
+			"Start": 	0,
+			"End":		510
+		},
+		{
+			"Name":	"12144",
+			"Address":	"Polderstraat 6, 9060 Zelzate, Belgie",
+			"Workers":	1,
+			"Service":	80,
+			"Start": 	0,
+			"End":		510
+		},
+		{
+			"Name":	"12324",
+			"Address":	"Steenbakkerijen 64, 2845 Niel, Belgie",
+			"Workers":	1,
+			"Service":	45,
+			"Start": 	0,
+			"End":		510
+		}
+	]
+}
